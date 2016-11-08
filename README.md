@@ -1,2 +1,2 @@
 # deui
-ameh bisa
+Maksudi Indra Rukmana

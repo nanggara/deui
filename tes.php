@@ -9,10 +9,9 @@ die( print_r( sqlsrv_errors(), true));
 echo "Koneksi berhasil";
 }
 sqlsrv_close( $conn);
-<<<<<<< HEAD
-?>
-=======
+
 ?>
 
+
 <?php echo "Apa kabar kamu ?" ;?>
->>>>>>> Versi 002
+<?php echo "Hese euy" ;?>
