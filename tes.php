@@ -15,3 +15,4 @@ sqlsrv_close( $conn);
 
 <?php echo "Apa kabar kamu ?" ;?>
 <?php echo "Hese euy" ;?>
+<?php echo "Leneng euy" ;?>
